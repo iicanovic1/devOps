@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "runner1",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/YjhGhgEETtBX2RUSTXI75e8kUJFeZNTqvwi4LkXSuFuA0235Ny",
+  "gitHubUrl": "https://github.com/iicanovic1/devOps",
+  "workFolder": "_work"
+}
